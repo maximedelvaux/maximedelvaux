@@ -1,4 +1,16 @@
-<div align="```go
+<div align="center">
+
+# 👋 Hey there! I'm Maxime Delvaux
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Golang+Backend+Developer;Microservices+Architect;Full+Stack+with+React;PHP+%26+Go+Enthusiast;Building+Scalable+APIs" alt="Typing SVG" />
+
+</div>
+
+---
+
+## 🚀 About Me
+
+```go
 type Developer struct {
     Name            string
     Pronouns        string
@@ -34,15 +46,7 @@ var maxime = Developer{
     CurrentlyLearning: "Upping my Laravel game.",
     FunFact:          "Go is super boring and I like it 🔨.",
 }
-```Hey there! I'm Maxime Delvaux
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Golang+Backend+Developer;Microservices+Architect;Full+Stack+with+React;PHP+%26+Go+Enthusiast;Building+Scalable+APIs" alt="Typing SVG" />
-
-</div>
-
----
-
-## 🚀 About Me
+```
 
 ```javascript
 const maxime = {
