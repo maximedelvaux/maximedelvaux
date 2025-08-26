@@ -48,22 +48,6 @@ var maxime = Developer{
 }
 ```
 
-```javascript
-const maxime = {
-    pronouns: "he/him",
-    location: "🇧🇪 Belgium",
-    currentFocus: ["Web Development", "Open Source", "Learning New Technologies"],
-    techStack: {
-        frontend: ["React", "Vue.js", "TypeScript", "HTML5", "CSS3"],
-        backend: ["Node.js", "Python", "PHP", "Express"],
-        databases: ["MySQL", "PostgreSQL", "MongoDB"],
-        tools: ["Git", "Docker", "VS Code", "Figma"]
-    },
-    currentlyLearning: "Advanced React Patterns & Cloud Architecture",
-    funFact: "I debug with console.log and I'm not ashamed! �"
-};
-```
-
 ---
 
 ## 🛠️ Tech Stack & Tools
