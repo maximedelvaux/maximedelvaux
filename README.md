@@ -109,9 +109,12 @@ var maxime = Developer{
 
 --- -->
 
+<div align="center">
+
 ### 🎵 Currently Rocking
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21bwc5e46346a4p5dxmkzgdsy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
 
+</div>
 
 ## 📈 Activity Graph
 
