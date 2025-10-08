@@ -35,7 +35,7 @@ var maxime = Developer{
     Name:         "Maxime Delvaux",
     Pronouns:     "he/him",
     Location:     "🇧🇪 Belgium",
-    CurrentFocus: []string{"Backend Services", "Microservices", "API Development"},
+    CurrentFocus: []string{"Backend Services", "Microservices", "Event-Driven System Development"},
     Specialization: "Golang Backend Developer",
     TechStack: TechStack{
         Backend:   []string{"Go", "PHP", "Node.js", "Gin", "Fiber", "Laravel"},
@@ -44,8 +44,6 @@ var maxime = Developer{
         Tools:     []string{"Docker", "Kubernetes", "Git", "VS Code", "Postman"},
         Cloud:     []string{"AWS", "GCP", "Docker", "CI/CD"},
     },
-    CurrentlyLearning: "Upping my Laravel game⚔️.",
-    FunFact:          "Go is super boring and I like it 🔨.",
 }
 ```
 
@@ -98,14 +96,6 @@ var maxime = Developer{
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=maximedelvaux&theme=radical" alt="maximedelvaux's streak"/>
 </div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=maximedelvaux&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="maximedelvaux's trophies"/>
-</div> -->
 
 ---
 
