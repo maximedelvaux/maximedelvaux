@@ -36,12 +36,12 @@ var maxime = Developer{
     Pronouns:     "he/him",
     Location:     "🇧🇪 Belgium",
     CurrentFocus: []string{"Backend Services", "Microservices", "Event-Driven System Development"},
-    Specialization: "Golang Backend Developer",
+    Specialization: "Full Stack | Golang Backend Developer",
     TechStack: TechStack{
         Backend:   []string{"Go", "PHP", "Node.js", "Gin", "Fiber", "Laravel"},
         Frontend:  []string{"React", "JavaScript", "TypeScript", "HTML5", "CSS3"},
         Databases: []string{"PostgreSQL", "MySQL", "MongoDB", "Redis"},
-        Tools:     []string{"Docker", "Kubernetes", "Git", "VS Code", "Postman"},
+        Tools:     []string{"Docker", "Kubernetes", "GitOps", "VS Code", "Bruno"},
         Cloud:     []string{"AWS", "GCP", "Docker", "CI/CD"},
     },
 }
