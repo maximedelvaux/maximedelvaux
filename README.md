@@ -9,43 +9,11 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-```go
-type Developer struct {
-    Name            string
-    Pronouns        string
-    Location        string
-    CurrentFocus    []string
-    Specialization  string
-    TechStack       TechStack
-    CurrentlyLearning string
-    FunFact         string
-}
+Full-stack developer from Belgium with a strong focus on backend engineering. I build scalable services, microservices architectures, and event-driven systems — mostly in Go, but comfortable across the stack.
 
-type TechStack struct {
-    Backend    []string
-    Frontend   []string
-    Databases  []string
-    Tools      []string
-    Cloud      []string
-}
-
-var maxime = Developer{
-    Name:         "Maxime Delvaux",
-    Pronouns:     "he/him",
-    Location:     "🇧🇪 Belgium",
-    CurrentFocus: []string{"Backend Services", "Microservices", "Event-Driven System Development"},
-    Specialization: "Full Stack | Golang Backend Developer",
-    TechStack: TechStack{
-        Backend:   []string{"Go", "PHP", "Node.js", "Gin", "Fiber", "Laravel"},
-        Frontend:  []string{"React", "JavaScript", "TypeScript", "HTML5", "CSS3"},
-        Databases: []string{"PostgreSQL", "MySQL", "MongoDB", "Redis"},
-        Tools:     []string{"Docker", "Kubernetes", "GitOps", "VS Code", "Bruno"},
-        Cloud:     []string{"AWS", "GCP", "Docker", "CI/CD"},
-    },
-}
-```
+Currently working with **Go**, **PHP**, **Node.js**, and **React**. Day-to-day I deal with **PostgreSQL**, **Redis**, **Docker**, **Kubernetes**, and CI/CD pipelines on **Azure**.
 
 ---
 
@@ -78,7 +46,6 @@ var maxime = Developer{
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
@@ -109,10 +76,20 @@ var maxime = Developer{
 
 --- -->
 
+<!-- Spotify section (commented out)
 <div align="center">
 
 ### 🎵 Currently Rocking
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21bwc5e46346a4p5dxmkzgdsy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
+
+</div>
+-->
+
+<div align="center">
+
+🟢 **Available for freelance** &mdash; Full-Stack, Distributed Systems, DevOps, Scrum
+<br>
+Belgium 🇧🇪 &middot; [mxdlvx.com](https://mxdlvx.com)
 
 </div>
 
