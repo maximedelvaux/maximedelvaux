@@ -11,7 +11,7 @@
 
 ## About Me
 
-Independent consultant based in Belgium, helping teams ship production-ready web platforms — on time and with a clear architecture behind them.
+Independent consultant based in Belgium, helping teams ship production-ready web platforms - on time and with a clear architecture behind them.
 
 I work across the full delivery cycle: from shaping the solution to writing the code and handing over something the team can actually maintain.
 
@@ -26,7 +26,7 @@ Fast, SEO-ready frontends with clean component architecture. From design system 
 Robust APIs and backend patterns that make frontend teams move faster. Clean contracts, typed end-to-end, and third-party integrations that don't turn into spaghetti over time.
 
 ### Enterprise Delivery
-Architecture decisions, team ramp-up, delivery process — I embed with teams to close the gap between what was scoped and what ships. Happy to lead technically or operate as a senior individual contributor.
+Architecture decisions, team ramp-up, delivery process - I embed with teams to close the gap between what was scoped and what ships. Happy to lead technically or operate as a senior individual contributor.
 
 ---
 
@@ -111,7 +111,7 @@ Architecture decisions, team ramp-up, delivery process — I embed with teams to
 
 <div align="center">
 
-🟡 **Currently on a full-time mission** &mdash; open to a limited number of smaller engagements on the side
+🟡 **Currently on a mission** but hit me up to discuss about your projects
 <br>
 Belgium 🇧🇪 &middot; [mxdlvx.com](https://mxdlvx.com)
 
