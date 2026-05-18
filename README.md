@@ -56,6 +56,8 @@ Architecture decisions, team ramp-up, delivery process — I embed with teams to
 
 ### CMS & DXP
 ![Sitecore](https://img.shields.io/badge/Sitecore-EB1F1F?style=for-the-badge&logo=sitecore&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Drupal](https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -109,7 +111,7 @@ Architecture decisions, team ramp-up, delivery process — I embed with teams to
 
 <div align="center">
 
-🟢 **Open to consulting engagements** &mdash; Web Platforms · Digital Experience · Enterprise Delivery
+🟡 **Currently on a full-time mission** &mdash; open to a limited number of smaller engagements on the side
 <br>
 Belgium 🇧🇪 &middot; [mxdlvx.com](https://mxdlvx.com)
 
